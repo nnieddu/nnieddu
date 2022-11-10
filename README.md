@@ -4,16 +4,16 @@
   
   
   
-<img align="right" alt="GIF" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="500" height="320" />
-My skills :
-* C
-* C++
-* HTML
-* CSS
-* SASS
-* JavaScript
-* TypeScript
-* React.Js / Redux / Redux tool-kit
-* Jest
-
+<img align="right" alt="GIF" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="500" height="320" />  
+My skills :  
+* C  
+* C++  
+* HTML  
+* CSS  
+* SASS  
+* JavaScript  
+* TypeScript  
+* React.Js / Redux / Redux tool-kit  
+* Jest  
+  
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
