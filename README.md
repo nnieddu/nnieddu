@@ -10,6 +10,7 @@ My skills :
 * SASS
 * JavaScript
 * TypeScript
-* React.Js
+* React.Js / Redux / Redux tool-kit
+* Jest
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
