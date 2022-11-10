@@ -13,3 +13,4 @@ My skills :
 * React.Js / Redux / Redux tool-kit
 * Jest
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
+<img align="right" alt="GIF" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="500" height="320" />
