@@ -1,7 +1,7 @@
 ### Hi 👋
-
+  <img align="right" style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="350" height="280" />
 [Codin Game](https://www.codingame.com/profile/483153482d024ace59b7a1d5747b560c6730432)  
-  <img align="right" style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />
+
 My skills :
 * C
 * C++
