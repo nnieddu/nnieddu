@@ -8,14 +8,9 @@ My skills :
 * HTML
 * CSS
 * SASS
+*   <img style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />
 * JavaScript
 * TypeScript
 * React.Js / Redux / Redux tool-kit
 * Jest
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
-  
-  <img style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />  
-  
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     " 
