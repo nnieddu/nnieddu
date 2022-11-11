@@ -8,7 +8,7 @@ My skills :
 * HTML
 * CSS
 * SASS
-*   <img style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />
+<img align="right" style="float: right;" alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />
 * JavaScript
 * TypeScript
 * React.Js / Redux / Redux tool-kit
