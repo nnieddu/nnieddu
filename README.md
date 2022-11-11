@@ -14,5 +14,8 @@ My skills :
 * Jest
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
   
-  <img align="right" alt="GIF" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="500" height="320" />  
+  <img style="float: right; alt="GIF illustration github nnieddu" src="https://github.com/nnieddu/nnieddu/blob/main/code.gif" width="450" height="320" />  
   
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     " 
