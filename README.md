@@ -8,7 +8,7 @@ My skills :
 * C++
 * HTML
 * CSS
-* SASS
+* SCSS / SASS
 * JavaScript
 * TypeScript
 * React.Js / Redux / Redux tool-kit
