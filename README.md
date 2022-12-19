@@ -13,4 +13,5 @@ My skills :
 * TypeScript
 * React.Js / Redux / Redux toolkit
 * Jest
+* Linux, Bash, shell
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
