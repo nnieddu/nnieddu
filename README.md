@@ -12,7 +12,9 @@ My skills :
 * SCSS / SASS
 * JavaScript
 * TypeScript
-* React.Js / Redux / Redux toolkit
+* React.Js / Context / Redux / Redux toolkit
+* MUI / Bootstrap / Tailwind 
+* Google Cloud / Firebase
 * ~Jest
 * Linux, Bash, shell
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=nnieddu) -->
